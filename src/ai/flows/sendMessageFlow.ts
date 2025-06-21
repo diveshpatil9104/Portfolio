@@ -56,7 +56,7 @@ const sendMessageFlow = ai.defineFlow(
 
     const resend = new Resend(resendApiKey);
     // This email MUST be the one verified with your Resend account when using 'onboarding@resend.dev'
-    const recipientEmail = "tejas2382004@gmail.com"; 
+    const recipientEmail = "manasijpatil2005@gmail.com"; 
     const senderEmail = 'onboarding@resend.dev';
 
 

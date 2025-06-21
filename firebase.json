@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "tejasfolio",
+    "site": "manasifolio",
     "public": "public",
     "ignore": [
       "firebase.json",
