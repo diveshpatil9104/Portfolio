@@ -1,4 +1,4 @@
-# **App Name**: Tejas Portfolio
+# **App Name**: manasi Portfolio
 
 ## Core Features:
 
