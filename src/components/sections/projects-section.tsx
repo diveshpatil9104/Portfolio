@@ -16,7 +16,7 @@ const projects = [
     description: "Built an NLP-based AI system to automate candidate evaluation. Reduced manual screening time by 60%. Achieved 85% accuracy in matching candidates with job descriptions.",
     image: "/project-images/ai-resume-screening.png?v=refresh",
     imageHint: "ai resume screening",
-    githubLink: "https://github.com/manasipatil262005/AI-Powered-Resume-Parser-Rancker",
+    githubLink: "https://github.com/manasi262005/ResumeRanker",
     demoLink: "#",
     tags: ["AI/ML", "NLP", "Python", "Project Lead"]
   },
@@ -27,7 +27,7 @@ const projects = [
     description: "Built a full-stack finance tracker with JWT auth and MongoDB. Managed 100+ users and implemented real-time expense dashboards.",
     image: "/project-images/expense-manager-mern.png?v=refresh",
     imageHint: "finance tracker mern",
-    githubLink: "https://github.com/manasipatil2005/MyExpenceManager-MERN-",
+    githubLink: "https://github.com/manasi262005/MyExpenceManager",
     demoLink: "#",
     tags: ["MERN", "MongoDB", "JWT", "Full-Stack"]
   },
@@ -38,7 +38,7 @@ const projects = [
     description: "GUI-based booking system using JavaFX + MySQL. Added real-time filtering and secure payment (UPI & Card).",
     image: "/project-images/bus-booking-javafx.png?v=refresh",
     imageHint: "bus booking java",
-    githubLink: "https://github.com/manasipatil2005/Online-Bus-Booking-Platform",
+    githubLink: "https://github.com/manasi262005/Online-Bus-Booking-Platform",
     demoLink: "#",
     tags: ["JavaFX", "Java", "MySQL", "Desktop App", "UI/UX"]
   },
@@ -47,7 +47,7 @@ const projects = [
     role: "Web Developer",
     dateRange: "Jun 2024 – Jul 2024",
     description: "Responsive currency converter using real-time APIs. Enhanced UX with live exchange rate support.",
-    image: "/project-images/currency-tranxslator-web.png?v=refresh",
+    image: "/project-images/currency-translator-web.png?v=refresh",
     imageHint: "currency converter api",
     githubLink: "https://github.com/manasipatil262005/currency-translator-app",
     demoLink: "#",

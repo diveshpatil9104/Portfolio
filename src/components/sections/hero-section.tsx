@@ -97,7 +97,7 @@ export default function HeroSection() {
           <div className="relative w-56 h-56 md:w-80 md:h-80 group">
             <div className="absolute inset-0 rounded-full bg-gradient-to-r from-primary/50 to-secondary/50 blur-sm opacity-75 group-hover:opacity-100 transition-opacity duration-300"></div>
             <img
-              src="/project-images/raj.jpg" // Replace with your actual image path
+              src="/project-images/manasi.jpg" // Replace with your actual image path
               alt="Manasi Patil Profile"
               className="relative w-full h-full rounded-full object-cover border-4 border-background shadow-2xl group-hover:scale-105 transition-transform duration-300"
             />
