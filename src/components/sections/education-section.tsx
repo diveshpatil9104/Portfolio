@@ -20,11 +20,11 @@ const educationData = [
   {
     type: "certification",
     title: "WEB DEVELOPMENT INTERNSHIP",
-    institution: "CODSOFT",
+    institution: "PRODIGY",
     period: "JUNE 01, 2025 – JUNE 30, 2025",
-    description: "Selected for a 4-week virtual Web Development internship at CodSoft (June 2025), focused on hands-on learning, skill development, and real-world project experience in front-end and back-end technologies.",
+    description: "Selected for a 4-week virtual Web Development internship at PRODIGY (June 2025), focused on hands-on learning, skill development, and real-world project experience in front-end and back-end technologies.",
     icon: <Award className="h-5 w-5 text-primary" />,
-    certificateUrl: "/certificates/letter.png",
+    certificateUrl: "/certificates/prodigy_offer.jpg",
     certificateHint: "mern internship"
   },
   {
